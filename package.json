@@ -1,7 +1,7 @@
 {
-  "name": "belgian-beer-explorer",
+  "name": "myportal2025",
   "version": "0.0.0",
-  "description": "belgian-beer-explorer",
+  "description": "multipurpose app",
   "main": "server.js",
   "scripts": {
     "webpack": "webpack",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccoenraets/belgian-beer-explorer"
+    "url": "https://github.com/Mallikarjunarao-Git2025/myportal2025"
   },
   "author": "Christophe Coenraets",
   "bugs": {
-    "url": "https://github.com/ccoenraets/belgian-beer-explorer/issues"
+    "url": "https://github.com/Mallikarjunarao-Git2025/myportal2025/issues"
   },
-  "homepage": "https://github.com/ccoenraets/belgian-beer-explorer",
+  "homepage": "https://github.com/Mallikarjunarao-Git2025/myportal2025",
   "dependencies": {
     "compression": "^1.6.2",
     "express": "^4.14.0",
